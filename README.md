@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Alcune statistiche](https://github-readme-stats.vercel.app/api?username=dennysdionigi&show_icons=true&bg_color=00000000&show_icons=true)
+
+![](./svg-md.svg)
 
 
 
